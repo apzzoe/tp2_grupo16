@@ -15,6 +15,8 @@ public class Ejercicio2 {
 		String integrante4 = "Luisana Villena";
 		String integrante5 = "Zoe Zelaya Apaza";
 		
+		
+		
 		System.out.println(integrante1+" - "+dni1);
 		System.out.println(integrante2+" - "+dni2);
 		System.out.println(integrante3+" - "+dni3);
