@@ -7,7 +7,5 @@ public class Ejercicio6 {
 		byte radio= entrada.nextByte();
 		double area= Math.PI*Math.pow(radio,2);
 		System.out.println("Área del círculo: " + area);
-
 	}
-
 }
