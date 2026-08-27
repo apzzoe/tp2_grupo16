@@ -27,6 +27,7 @@ public class Ejercicio5 {
 		float calc13 = (nuevoA - 3 * nuevoB) % (nuevoC + 2 * nuevoA) / (nuevoA - nuevoC);
 		int calc14 = a - b - c * 2;
 
+		
 		System.out.println(calc1);
 		System.out.println(calc2);
 		System.out.println(calc3);
@@ -41,6 +42,7 @@ public class Ejercicio5 {
 		System.out.println(calc12);
 		System.out.println(calc13);
 		System.out.println(calc14);
+		
 		
 	}
 
