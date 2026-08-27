@@ -42,9 +42,6 @@ public class Ejercicio5 {
 		System.out.println(calc12);
 		System.out.println(calc13);
 		System.out.println(calc14);
-
-		
-
 	}
 
 }
