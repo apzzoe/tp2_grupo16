@@ -1,4 +1,4 @@
-package ur.edu.unju.escmi.tp2.ejercicio11;
+package ar.edu.unju.escmi.tp2.ejercicio11;
 
 import java.util.Scanner;
 public class Ejercicio11 {
@@ -10,9 +10,9 @@ public class Ejercicio11 {
 	            System.out.println("Ingrese un numero: ");
 	            numero = entrada.nextInt();
 	            if (numero % 2 == 0) {
-	                System.out.println("El numero es par: ");
+	                System.out.println("El numero es par ");
 	            } else {
-	                System.out.println("El numero es impar: ");
+	                System.out.println("El numero es impar");
 	            }
 	        }
 	}
