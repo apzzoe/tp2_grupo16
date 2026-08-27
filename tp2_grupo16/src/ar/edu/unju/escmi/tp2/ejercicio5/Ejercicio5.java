@@ -28,8 +28,6 @@ public class Ejercicio5 {
 		int calc14 = a - b - c * 2;
 
 		
-		
-		
 		System.out.println(calc1);
 		System.out.println(calc2);
 		System.out.println(calc3);
