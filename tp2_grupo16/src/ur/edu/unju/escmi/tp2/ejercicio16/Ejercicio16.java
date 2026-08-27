@@ -32,7 +32,7 @@ public class Ejercicio16 {
 
         System.out.println("Nombres desde el final:");
 
-        for (int i = tamaño - 1; i >= 0; i--) {
+        for (int i = tamaño - 1; i >= 0; i--){
 
             System.out.println(nombres[i]);
 

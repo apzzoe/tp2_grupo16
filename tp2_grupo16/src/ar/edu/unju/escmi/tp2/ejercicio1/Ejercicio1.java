@@ -3,7 +3,7 @@ package ar.edu.unju.escmi.tp2.ejercicio1;
 public class Ejercicio1 {
 
 	public static void main(String[] args) {
-		int DNI;
+		int dni;
 		char letra;
 		int edad;
 		String nombreProcer;
@@ -13,7 +13,6 @@ public class Ejercicio1 {
 		double pesoMascota;
 		String fechaInicioCuatri;
 		String fechaFinalCuatri;
-
 	}
 
 }
