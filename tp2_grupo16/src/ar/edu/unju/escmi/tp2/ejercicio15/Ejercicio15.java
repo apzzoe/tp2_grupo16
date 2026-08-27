@@ -35,5 +35,7 @@ public class Ejercicio15 {
         System.out.println("\nLa suma de todos los valores ingresados es: " + sumaTotal);
 
         sc.close();
+        
+        
     }
 }
