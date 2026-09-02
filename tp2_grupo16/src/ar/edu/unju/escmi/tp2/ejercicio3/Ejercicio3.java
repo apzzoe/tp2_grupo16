@@ -15,3 +15,8 @@ public class Ejercicio3 {
 	}
 
 }
+
+/* ¿Es necesario utilizar la palabra reservada static? 
+No hace falta usar static acá porque las constantes están declaradas adentro del main.
+Como static se usa para que una variable sea de toda la clase y no de un objeto,
+para las que están adentro de un método alcanza con usar solo final */
