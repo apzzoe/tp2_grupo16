@@ -17,11 +17,12 @@ public class Ejercicio2 {
 		
 		
 		
-		System.out.println(integrante1+" - "+dni1);
-		System.out.println(integrante2+" - "+dni2);
-		System.out.println(integrante3+" - "+dni3);
-		System.out.println(integrante4+" - "+dni4);
-		System.out.println(integrante5+" - "+dni5);
-	}
+		System.out.println(
+			    integrante1 + " - " + dni1 + "\n" +
+			    integrante2 + " - " + dni2 + "\n" +
+			    integrante3 + " - " + dni3 + "\n" +
+			    integrante4 + " - " + dni4 + "\n" +
+			    integrante5 + " - " + dni5
+			);
 
-}
+}}
