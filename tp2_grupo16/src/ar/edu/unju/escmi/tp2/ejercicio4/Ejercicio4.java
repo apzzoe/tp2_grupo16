@@ -9,7 +9,7 @@ public class Ejercicio4 {
 		double resultado; 
 		
 		resultado = Math.pow((num*(num+1)/2),2);
-		System.out.println("el resultado del calculo para num = 3 es:  " + resultado);
+		System.out.println("El resultado del cálculo para num = 3 es:  " + resultado);
 
 	}
 
