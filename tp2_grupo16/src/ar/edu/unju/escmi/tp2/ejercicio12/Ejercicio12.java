@@ -13,7 +13,7 @@ public class Ejercicio12 {
 	            edad = sc.nextInt();
 
 	            if (edad >= 1 && edad <= 12) {
-	                System.out.println("es un ninio");
+	                System.out.println("es un niño");
 	            } else
 	            	if (edad >= 13 && edad <= 20) {
 	                System.out.println("Es un joven");
