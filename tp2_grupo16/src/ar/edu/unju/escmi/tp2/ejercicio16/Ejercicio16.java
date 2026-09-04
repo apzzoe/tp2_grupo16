@@ -5,19 +5,19 @@ import java.util.Scanner;
 public class Ejercicio16 {
 
 	public static void main(String[] args) {
-		 Scanner scanner = new Scanner(System.in);
+		 Scanner entrada = new Scanner(System.in);
 
 	        System.out.println("Ingrese la cantidad de nombres entre 5 y 10:");
-	        int tamaño = scanner.nextInt();
+	        int tamaño = entrada.nextInt();
 
 	        String[] nombres = new String[tamaño];
 
-	        scanner.nextLine();
+	        entrada.nextLine();
 
 	        for (int i = 0; i < tamaño; i++) {
 
 	            System.out.println("Ingrese un nombre:");
-	            nombres[i] = scanner.nextLine();
+	            nombres[i] = entrada.nextLine();
 
 	        }
 
@@ -36,6 +36,7 @@ public class Ejercicio16 {
 	            System.out.println(nombres[i]);
 
 	        }
+	  entrada.close();
 
 	}
 
